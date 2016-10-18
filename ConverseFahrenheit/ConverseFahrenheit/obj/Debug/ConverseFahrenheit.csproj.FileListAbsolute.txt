@@ -1,0 +1,6 @@
+c:\users\man\documents\visual studio 2015\Projects\ConverseFahrenheit\ConverseFahrenheit\bin\Debug\ConverseFahrenheit.exe.config
+c:\users\man\documents\visual studio 2015\Projects\ConverseFahrenheit\ConverseFahrenheit\bin\Debug\ConverseFahrenheit.exe
+c:\users\man\documents\visual studio 2015\Projects\ConverseFahrenheit\ConverseFahrenheit\bin\Debug\ConverseFahrenheit.pdb
+c:\users\man\documents\visual studio 2015\Projects\ConverseFahrenheit\ConverseFahrenheit\obj\Debug\ConverseFahrenheit.csprojResolveAssemblyReference.cache
+c:\users\man\documents\visual studio 2015\Projects\ConverseFahrenheit\ConverseFahrenheit\obj\Debug\ConverseFahrenheit.exe
+c:\users\man\documents\visual studio 2015\Projects\ConverseFahrenheit\ConverseFahrenheit\obj\Debug\ConverseFahrenheit.pdb

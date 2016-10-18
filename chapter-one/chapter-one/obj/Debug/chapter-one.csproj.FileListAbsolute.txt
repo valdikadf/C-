@@ -1,0 +1,6 @@
+c:\users\man\documents\visual studio 2015\Projects\chapter-one\chapter-one\bin\Debug\chapter-one.exe.config
+c:\users\man\documents\visual studio 2015\Projects\chapter-one\chapter-one\bin\Debug\chapter-one.exe
+c:\users\man\documents\visual studio 2015\Projects\chapter-one\chapter-one\bin\Debug\chapter-one.pdb
+c:\users\man\documents\visual studio 2015\Projects\chapter-one\chapter-one\obj\Debug\chapter-one.csprojResolveAssemblyReference.cache
+c:\users\man\documents\visual studio 2015\Projects\chapter-one\chapter-one\obj\Debug\chapter-one.exe
+c:\users\man\documents\visual studio 2015\Projects\chapter-one\chapter-one\obj\Debug\chapter-one.pdb
